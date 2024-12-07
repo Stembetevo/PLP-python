@@ -3,7 +3,7 @@
 class Vehicle:
     class Boat:
         def move(self):
-            return "Floats!" 
+            return "Floats" 
     class Car:
         def move(self):
             return "Driving!"

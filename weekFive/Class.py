@@ -14,7 +14,7 @@ class Home:
 class House(Home):
     pass
 
-home2 = House("Blue","3","6")
+home2 = House("Blue","7","6")
 home1 = Home("green","4","2")
 
 
